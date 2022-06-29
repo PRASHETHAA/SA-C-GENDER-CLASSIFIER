@@ -38,16 +38,9 @@ result=DeepFace.analyze(img2,actions=['gender'])
 print("Gender : ",result['gender'])
 
 ```
+![image](https://user-images.githubusercontent.com/75234942/176353939-3e0ca3df-afb5-4375-b157-7d1ef4ec943f.png)
 
-![woman img](https://user-images.githubusercontent.com/75237886/174479263-1386e469-d62e-4e77-aadb-0c2b9a8935b4.png)
-
-![woman](https://user-images.githubusercontent.com/75237886/174479276-8552c3d5-36e1-4c00-a11c-8dfbae71bc5c.png)
-
-![man img](https://user-images.githubusercontent.com/75237886/174479296-c5b1d486-2bc8-43ac-b78b-18e12e940234.png)
-
-![man](https://user-images.githubusercontent.com/75237886/174479302-ac9005c5-848b-4c06-8de7-109113768321.png)
-
-
+![image](https://user-images.githubusercontent.com/75234942/176354063-325039df-9f4a-4cfe-9c51-ded4f78d734f.png)
 
 2. DEMO VIDEO YOUTUBE LINK:
 
